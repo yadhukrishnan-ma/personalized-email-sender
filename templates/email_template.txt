@@ -1,0 +1,32 @@
+Subject: {name}, You're Invited to the RoboTech Innovation Hackathon 2025!
+
+<html>
+  <body style="font-family: Arial, sans-serif; background-color: #f4f6f8; padding: 20px;">
+    <div style="max-width: 600px; margin: auto; background: white; border-radius: 10px; padding: 25px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+      <h2 style="color: #007BFF;">Hey {name},</h2>
+      <p>You're officially invited to <b>RoboTech Innovation Hackathon 2025</b> — an exciting hands-on event that brings together coders, innovators, and robotics enthusiasts!</p>
+
+      <h3>🚀 Highlights</h3>
+      <ul>
+        <li>Arduino & ROS2 project challenges</li>
+        <li>Python automation & AI tasks</li>
+        <li>Expert mentor guidance</li>
+        <li>Exciting prizes and recognition</li>
+      </ul>
+
+      <p><b>Date:</b> 25th October 2025<br>
+      <b>Venue:</b> iHub School of Robotics, Kochi<br>
+      <b>Time:</b> 9:30 AM – 5:00 PM</p>
+
+      <div style="text-align:center;">
+        <a href="https://bit.ly/robohack2025" style="background-color: #007BFF; color: white; padding: 12px 20px; text-decoration: none; border-radius: 8px;">Register Now</a>
+      </div>
+
+      <p style="margin-top: 25px;">We’re excited to see what you’ll build, {name}!</p>
+      <p style="color: #555;">Warm regards,<br>
+      <b>Team RoboTech</b><br>
+      iHub School of Robotics, Kochi<br>
+      📧 info@robotekhub.com</p>
+    </div>
+  </body>
+</html>
